@@ -1,4 +1,4 @@
-# Jekyll-Bootstrap-Core
+# Chandramouleswaran GitHub page
 
 This is a clean install of the core Jekyll Bootstrap framework you can clone and run your Jekyll blog with.
 
