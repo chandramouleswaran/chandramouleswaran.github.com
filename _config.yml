@@ -8,14 +8,14 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://plusjade.github.com # or your custom domain name
-title : Plusjade
+production_url : http://chandramouleswaran.github.com # or your custom domain name
+title : Chandramouleswaran Ravichandran
 
 author :
-  name : Jade Dominguez
-  email : plusjade@gmail.com
-  github : plusjade
-  twitter : plusjade
+  name : Chandramouleswaran Ravichandran
+  email : chandramouleswaran@gmail.com
+  github : chandramouleswaran
+  twitter : chandramoulir
 
 javascripts :
   enabled : true
