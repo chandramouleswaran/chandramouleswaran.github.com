@@ -1,10 +1,9 @@
 ---
 layout: project
-title: Projects
+title: GitHub Projects
 header: Projects
 group: navigation
 ---
 
-These are my most significant projects.
-All of my projects are Open Source.
+These are some of my recent open source projects. I own Wide, Hypertest and have contributed to MahApps.Metro and AvalonDock. All of these projects are Open Source.
 
